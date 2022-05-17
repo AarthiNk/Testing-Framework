@@ -32,6 +32,5 @@ Driver Features used in this Project are
 
 ## with Reports
 
-![image](https://user-images.githubusercontent.com/105538789/168671247-68526b92-f3f3-402c-aeb8-a33cf6e1ca09.png)
 
 
