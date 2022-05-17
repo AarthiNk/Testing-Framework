@@ -21,7 +21,7 @@ Driver Features used in this Project are
 
 3.Iterators
 
-4.async and await
+4.async
 
 
 ## Best Practices
@@ -32,5 +32,11 @@ Driver Features used in this Project are
 
 ## with Reports
 
+To Generate reports:
 
+allure serve allure-results - use this command in terminal or cmd
+
+![image](https://user-images.githubusercontent.com/105538789/168883168-13114381-f211-41c8-997f-56667ac132fc.png)
+
+![image](https://user-images.githubusercontent.com/105538789/168883221-4016c889-134d-4af4-8d6e-72c1c61f16b7.png)
 
